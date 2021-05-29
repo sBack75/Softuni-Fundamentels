@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace PoundsToDollar
+namespace DollarConvertor
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            decimal pound = decimal.Parse(Console.ReadLine());
+            decimal result = pound * 1.31M;
+            Console.WriteLine($"{result:f3}");
         }
     }
 }

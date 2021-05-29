@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PoundsToDollar/1.0.0": {
+        "runtime": {
+          "PoundsToDollar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PoundsToDollar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

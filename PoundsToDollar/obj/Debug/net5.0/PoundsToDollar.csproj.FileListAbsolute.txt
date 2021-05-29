@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\bin\Debug\net5.0\PoundsToDollar.exe
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\bin\Debug\net5.0\PoundsToDollar.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\bin\Debug\net5.0\PoundsToDollar.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\bin\Debug\net5.0\PoundsToDollar.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\bin\Debug\net5.0\PoundsToDollar.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\bin\Debug\net5.0\ref\PoundsToDollar.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\bin\Debug\net5.0\PoundsToDollar.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\ref\PoundsToDollar.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\PoundsToDollar\obj\Debug\net5.0\PoundsToDollar.genruntimeconfig.cache

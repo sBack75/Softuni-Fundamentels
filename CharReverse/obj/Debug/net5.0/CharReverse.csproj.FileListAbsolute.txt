@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\bin\Debug\net5.0\CharReverse.exe
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\bin\Debug\net5.0\CharReverse.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\bin\Debug\net5.0\CharReverse.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\bin\Debug\net5.0\CharReverse.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\bin\Debug\net5.0\CharReverse.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\bin\Debug\net5.0\ref\CharReverse.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\bin\Debug\net5.0\CharReverse.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\ref\CharReverse.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\CharReverse\obj\Debug\net5.0\CharReverse.genruntimeconfig.cache

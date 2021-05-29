@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\bin\Debug\net5.0\CenturiosToMinute.exe
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\bin\Debug\net5.0\CenturiosToMinute.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\bin\Debug\net5.0\CenturiosToMinute.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\bin\Debug\net5.0\CenturiosToMinute.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\bin\Debug\net5.0\CenturiosToMinute.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\bin\Debug\net5.0\ref\CenturiosToMinute.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\bin\Debug\net5.0\CenturiosToMinute.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\CenturiosToMinute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\CenturiosToMinute.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\CenturiosToMinute.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\CenturiosToMinute.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\CenturiosToMinute.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\ref\CenturiosToMinute.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\CenturiosToMinute.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\CenturiosToMinute\obj\Debug\net5.0\CenturiosToMinute.genruntimeconfig.cache
