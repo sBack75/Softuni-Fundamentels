@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\bin\Debug\net5.0\PrintPartFromASCI.exe
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\bin\Debug\net5.0\PrintPartFromASCI.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\bin\Debug\net5.0\PrintPartFromASCI.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\bin\Debug\net5.0\PrintPartFromASCI.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\bin\Debug\net5.0\PrintPartFromASCI.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\bin\Debug\net5.0\ref\PrintPartFromASCI.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\bin\Debug\net5.0\PrintPartFromASCI.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\ref\PrintPartFromASCI.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.genruntimeconfig.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\PrintPartFromASCI\obj\Debug\net5.0\PrintPartFromASCI.csprojAssemblyReference.cache

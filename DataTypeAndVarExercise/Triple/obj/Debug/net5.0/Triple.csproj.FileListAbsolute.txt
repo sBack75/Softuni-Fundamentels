@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\bin\Debug\net5.0\Triple.exe
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\bin\Debug\net5.0\Triple.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\bin\Debug\net5.0\Triple.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\bin\Debug\net5.0\Triple.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\bin\Debug\net5.0\Triple.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\bin\Debug\net5.0\ref\Triple.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\bin\Debug\net5.0\Triple.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\Triple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\Triple.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\Triple.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\Triple.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\Triple.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\ref\Triple.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\Triple.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Triple\obj\Debug\net5.0\Triple.genruntimeconfig.cache

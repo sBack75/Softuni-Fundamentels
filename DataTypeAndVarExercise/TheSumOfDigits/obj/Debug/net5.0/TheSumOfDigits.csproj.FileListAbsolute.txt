@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\bin\Debug\net5.0\TheSumOfDigits.exe
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\bin\Debug\net5.0\TheSumOfDigits.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\bin\Debug\net5.0\TheSumOfDigits.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\bin\Debug\net5.0\TheSumOfDigits.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\bin\Debug\net5.0\TheSumOfDigits.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\bin\Debug\net5.0\ref\TheSumOfDigits.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\bin\Debug\net5.0\TheSumOfDigits.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\ref\TheSumOfDigits.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\TheSumOfDigits\obj\Debug\net5.0\TheSumOfDigits.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\bin\Debug\net5.0\WaterOverFlow.exe
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\bin\Debug\net5.0\WaterOverFlow.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\bin\Debug\net5.0\WaterOverFlow.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\bin\Debug\net5.0\WaterOverFlow.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\bin\Debug\net5.0\WaterOverFlow.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\bin\Debug\net5.0\ref\WaterOverFlow.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\bin\Debug\net5.0\WaterOverFlow.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\WaterOverFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\WaterOverFlow.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\WaterOverFlow.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\WaterOverFlow.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\WaterOverFlow.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\ref\WaterOverFlow.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\WaterOverFlow.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\WaterOverFlow\obj\Debug\net5.0\WaterOverFlow.genruntimeconfig.cache

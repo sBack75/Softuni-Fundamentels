@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\bin\Debug\net5.0\Elevator.exe
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\bin\Debug\net5.0\Elevator.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\bin\Debug\net5.0\Elevator.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\bin\Debug\net5.0\ref\Elevator.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\bin\Debug\net5.0\Elevator.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\ref\Elevator.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Elevator\obj\Debug\net5.0\Elevator.genruntimeconfig.cache
