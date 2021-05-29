@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\bin\Debug\net5.0\CountRealnumbers.exe
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\bin\Debug\net5.0\CountRealnumbers.deps.json
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\bin\Debug\net5.0\CountRealnumbers.runtimeconfig.json
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\bin\Debug\net5.0\CountRealnumbers.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\bin\Debug\net5.0\CountRealnumbers.dll
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\bin\Debug\net5.0\ref\CountRealnumbers.dll
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\bin\Debug\net5.0\CountRealnumbers.pdb
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.AssemblyInfo.cs
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.dll
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\ref\CountRealnumbers.dll
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.pdb
+C:\Users\Legion\source\repos\AssociativeArrays\CountRealnumbers\obj\Debug\net5.0\CountRealnumbers.genruntimeconfig.cache

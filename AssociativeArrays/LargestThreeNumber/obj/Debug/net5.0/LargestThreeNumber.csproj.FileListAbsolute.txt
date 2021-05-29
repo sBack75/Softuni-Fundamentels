@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\bin\Debug\net5.0\LargestThreeNumber.exe
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\bin\Debug\net5.0\LargestThreeNumber.deps.json
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\bin\Debug\net5.0\LargestThreeNumber.runtimeconfig.json
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\bin\Debug\net5.0\LargestThreeNumber.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\bin\Debug\net5.0\LargestThreeNumber.dll
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\bin\Debug\net5.0\ref\LargestThreeNumber.dll
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\bin\Debug\net5.0\LargestThreeNumber.pdb
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.AssemblyInfo.cs
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.dll
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\ref\LargestThreeNumber.dll
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.pdb
+C:\Users\Legion\source\repos\AssociativeArrays\LargestThreeNumber\obj\Debug\net5.0\LargestThreeNumber.genruntimeconfig.cache
