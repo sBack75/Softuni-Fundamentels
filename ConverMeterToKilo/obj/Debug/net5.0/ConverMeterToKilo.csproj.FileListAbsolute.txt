@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ConverMeterToKilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ConverMeterToKilo.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ConverMeterToKilo.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ConverMeterToKilo.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\bin\Debug\net5.0\ConverMeterToKilo.exe
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\bin\Debug\net5.0\ConverMeterToKilo.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\bin\Debug\net5.0\ConverMeterToKilo.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\bin\Debug\net5.0\ConverMeterToKilo.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\bin\Debug\net5.0\ConverMeterToKilo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\bin\Debug\net5.0\ref\ConverMeterToKilo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\bin\Debug\net5.0\ConverMeterToKilo.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ConverMeterToKilo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ref\ConverMeterToKilo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ConverMeterToKilo.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\ConverMeterToKilo\obj\Debug\net5.0\ConverMeterToKilo.genruntimeconfig.cache

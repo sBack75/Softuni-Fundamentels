@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net5.0\DataTypeAndVariable.exe
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net5.0\DataTypeAndVariable.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net5.0\DataTypeAndVariable.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net5.0\DataTypeAndVariable.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net5.0\DataTypeAndVariable.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net5.0\ref\DataTypeAndVariable.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net5.0\DataTypeAndVariable.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\ref\DataTypeAndVariable.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net5.0\DataTypeAndVariable.genruntimeconfig.cache
