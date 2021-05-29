@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\bin\Debug\net5.0\TownInfo.exe
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\bin\Debug\net5.0\TownInfo.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\bin\Debug\net5.0\TownInfo.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\bin\Debug\net5.0\TownInfo.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\bin\Debug\net5.0\TownInfo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\bin\Debug\net5.0\ref\TownInfo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\bin\Debug\net5.0\TownInfo.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\TownInfo.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\TownInfo.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\TownInfo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\ref\TownInfo.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\TownInfo.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\TownInfo\obj\Debug\net5.0\TownInfo.genruntimeconfig.cache

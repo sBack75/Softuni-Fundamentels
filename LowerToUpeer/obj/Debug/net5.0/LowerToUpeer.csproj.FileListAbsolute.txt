@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\bin\Debug\net5.0\LowerToUpeer.exe
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\bin\Debug\net5.0\LowerToUpeer.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\bin\Debug\net5.0\LowerToUpeer.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\bin\Debug\net5.0\LowerToUpeer.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\bin\Debug\net5.0\LowerToUpeer.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\bin\Debug\net5.0\ref\LowerToUpeer.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\bin\Debug\net5.0\LowerToUpeer.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\LowerToUpeer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\LowerToUpeer.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\LowerToUpeer.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\LowerToUpeer.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\LowerToUpeer.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\ref\LowerToUpeer.dll
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\LowerToUpeer.pdb
+C:\Users\Legion\source\repos\DataTypeAndVariable\LowerToUpeer\obj\Debug\net5.0\LowerToUpeer.genruntimeconfig.cache
