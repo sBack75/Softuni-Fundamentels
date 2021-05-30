@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\bin\Debug\net5.0\Pokemon.exe
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\bin\Debug\net5.0\Pokemon.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\bin\Debug\net5.0\Pokemon.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\bin\Debug\net5.0\Pokemon.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\bin\Debug\net5.0\Pokemon.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\bin\Debug\net5.0\ref\Pokemon.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\bin\Debug\net5.0\Pokemon.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\Pokemon.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\Pokemon.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\ref\Pokemon.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\Pokemon.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\Pokemon\obj\Debug\net5.0\Pokemon.genruntimeconfig.cache

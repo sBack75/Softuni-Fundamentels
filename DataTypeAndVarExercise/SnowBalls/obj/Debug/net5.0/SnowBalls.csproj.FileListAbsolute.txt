@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\bin\Debug\net5.0\SnowBalls.exe
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\bin\Debug\net5.0\SnowBalls.deps.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\bin\Debug\net5.0\SnowBalls.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\bin\Debug\net5.0\SnowBalls.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\bin\Debug\net5.0\SnowBalls.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\bin\Debug\net5.0\ref\SnowBalls.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\bin\Debug\net5.0\SnowBalls.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\SnowBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\SnowBalls.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\SnowBalls.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\SnowBalls.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\SnowBalls.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\ref\SnowBalls.dll
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\SnowBalls.pdb
+C:\Users\Legion\source\repos\DataTypeAndVarExercise\SnowBalls\obj\Debug\net5.0\SnowBalls.genruntimeconfig.cache
