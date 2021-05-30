@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.exe
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.deps.json
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.runtimeconfig.json
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.dll
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\bin\Debug\net5.0\ref\Zig-ZagArrays.dll
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.pdb
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.dll
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\ref\Zig-ZagArrays.dll
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.pdb
+C:\Users\Legion\source\repos\ArraysExercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.genruntimeconfig.cache

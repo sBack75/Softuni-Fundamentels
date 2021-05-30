@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ArraysExercise.exe
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ArraysExercise.deps.json
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ArraysExercise.runtimeconfig.json
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ArraysExercise.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ArraysExercise.dll
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ref\ArraysExercise.dll
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ArraysExercise.pdb
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.AssemblyInfo.cs
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.dll
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ref\ArraysExercise.dll
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.pdb
+C:\Users\Legion\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ArraysExercise.genruntimeconfig.cache
