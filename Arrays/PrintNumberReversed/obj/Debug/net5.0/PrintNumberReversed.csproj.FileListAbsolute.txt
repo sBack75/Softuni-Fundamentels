@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\bin\Debug\net5.0\PrintNumberReversed.exe
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\bin\Debug\net5.0\PrintNumberReversed.deps.json
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\bin\Debug\net5.0\PrintNumberReversed.runtimeconfig.json
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\bin\Debug\net5.0\PrintNumberReversed.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\bin\Debug\net5.0\PrintNumberReversed.dll
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\bin\Debug\net5.0\ref\PrintNumberReversed.dll
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\bin\Debug\net5.0\PrintNumberReversed.pdb
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.dll
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\ref\PrintNumberReversed.dll
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.pdb
+C:\Users\Legion\source\repos\Arrays\PrintNumberReversed\obj\Debug\net5.0\PrintNumberReversed.genruntimeconfig.cache

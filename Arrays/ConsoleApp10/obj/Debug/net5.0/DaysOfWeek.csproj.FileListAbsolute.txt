@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\bin\Debug\net5.0\DaysOfWeek.exe
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\bin\Debug\net5.0\DaysOfWeek.deps.json
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\bin\Debug\net5.0\DaysOfWeek.runtimeconfig.json
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\bin\Debug\net5.0\DaysOfWeek.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\bin\Debug\net5.0\DaysOfWeek.dll
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\bin\Debug\net5.0\ref\DaysOfWeek.dll
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\bin\Debug\net5.0\DaysOfWeek.pdb
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\DaysOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\DaysOfWeek.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\DaysOfWeek.dll
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\ref\DaysOfWeek.dll
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\DaysOfWeek.pdb
+C:\Users\Legion\source\repos\Arrays\ConsoleApp10\obj\Debug\net5.0\DaysOfWeek.genruntimeconfig.cache

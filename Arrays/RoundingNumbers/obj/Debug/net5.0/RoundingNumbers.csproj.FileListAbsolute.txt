@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.exe
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.deps.json
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.json
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.dll
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\ref\RoundingNumbers.dll
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.pdb
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.dll
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\ref\RoundingNumbers.dll
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.pdb
+C:\Users\Legion\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.genruntimeconfig.cache

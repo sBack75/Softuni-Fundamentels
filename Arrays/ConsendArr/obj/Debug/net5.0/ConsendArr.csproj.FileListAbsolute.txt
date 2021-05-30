@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\Arrays\ConsendArr\bin\Debug\net5.0\ConsendArr.exe
+C:\Users\Legion\source\repos\Arrays\ConsendArr\bin\Debug\net5.0\ConsendArr.deps.json
+C:\Users\Legion\source\repos\Arrays\ConsendArr\bin\Debug\net5.0\ConsendArr.runtimeconfig.json
+C:\Users\Legion\source\repos\Arrays\ConsendArr\bin\Debug\net5.0\ConsendArr.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Arrays\ConsendArr\bin\Debug\net5.0\ConsendArr.dll
+C:\Users\Legion\source\repos\Arrays\ConsendArr\bin\Debug\net5.0\ref\ConsendArr.dll
+C:\Users\Legion\source\repos\Arrays\ConsendArr\bin\Debug\net5.0\ConsendArr.pdb
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ConsendArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ConsendArr.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ConsendArr.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ConsendArr.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ConsendArr.dll
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ref\ConsendArr.dll
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ConsendArr.pdb
+C:\Users\Legion\source\repos\Arrays\ConsendArr\obj\Debug\net5.0\ConsendArr.genruntimeconfig.cache

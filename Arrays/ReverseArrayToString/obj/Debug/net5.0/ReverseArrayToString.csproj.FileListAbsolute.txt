@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\bin\Debug\net5.0\ReverseArrayToString.exe
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\bin\Debug\net5.0\ReverseArrayToString.deps.json
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\bin\Debug\net5.0\ReverseArrayToString.runtimeconfig.json
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\bin\Debug\net5.0\ReverseArrayToString.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\bin\Debug\net5.0\ReverseArrayToString.dll
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\bin\Debug\net5.0\ref\ReverseArrayToString.dll
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\bin\Debug\net5.0\ReverseArrayToString.pdb
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.dll
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ref\ReverseArrayToString.dll
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.pdb
+C:\Users\Legion\source\repos\Arrays\ReverseArrayToString\obj\Debug\net5.0\ReverseArrayToString.genruntimeconfig.cache
