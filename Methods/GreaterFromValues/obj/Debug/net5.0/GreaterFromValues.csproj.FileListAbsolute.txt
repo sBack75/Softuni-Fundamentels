@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\bin\Debug\net5.0\GreaterFromValues.exe
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\bin\Debug\net5.0\GreaterFromValues.deps.json
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\bin\Debug\net5.0\GreaterFromValues.runtimeconfig.json
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\bin\Debug\net5.0\GreaterFromValues.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\bin\Debug\net5.0\GreaterFromValues.dll
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\bin\Debug\net5.0\ref\GreaterFromValues.dll
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\bin\Debug\net5.0\GreaterFromValues.pdb
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\GreaterFromValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\GreaterFromValues.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\GreaterFromValues.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\GreaterFromValues.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\GreaterFromValues.dll
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\ref\GreaterFromValues.dll
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\GreaterFromValues.pdb
+C:\Users\Legion\source\repos\Methods\GreaterFromValues\obj\Debug\net5.0\GreaterFromValues.genruntimeconfig.cache

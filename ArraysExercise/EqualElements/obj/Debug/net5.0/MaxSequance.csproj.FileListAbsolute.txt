@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\bin\Debug\net5.0\MaxSequance.exe
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\bin\Debug\net5.0\MaxSequance.deps.json
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\bin\Debug\net5.0\MaxSequance.runtimeconfig.json
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\bin\Debug\net5.0\MaxSequance.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\bin\Debug\net5.0\MaxSequance.dll
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\bin\Debug\net5.0\ref\MaxSequance.dll
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\bin\Debug\net5.0\MaxSequance.pdb
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.AssemblyInfo.cs
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.dll
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\ref\MaxSequance.dll
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.pdb
+C:\Users\Legion\source\repos\ArraysExercise\EqualElements\obj\Debug\net5.0\MaxSequance.genruntimeconfig.cache

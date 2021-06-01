@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\bin\Debug\net5.0\CalcReactangleArea.exe
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\bin\Debug\net5.0\CalcReactangleArea.deps.json
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\bin\Debug\net5.0\CalcReactangleArea.runtimeconfig.json
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\bin\Debug\net5.0\CalcReactangleArea.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\bin\Debug\net5.0\CalcReactangleArea.dll
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\bin\Debug\net5.0\ref\CalcReactangleArea.dll
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\bin\Debug\net5.0\CalcReactangleArea.pdb
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\CalcReactangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\CalcReactangleArea.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\CalcReactangleArea.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\CalcReactangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\CalcReactangleArea.dll
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\ref\CalcReactangleArea.dll
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\CalcReactangleArea.pdb
+C:\Users\Legion\source\repos\Methods\CalcReactangleArea\obj\Debug\net5.0\CalcReactangleArea.genruntimeconfig.cache

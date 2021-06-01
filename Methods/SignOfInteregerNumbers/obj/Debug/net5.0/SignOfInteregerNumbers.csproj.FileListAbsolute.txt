@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\bin\Debug\net5.0\SignOfInteregerNumbers.exe
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\bin\Debug\net5.0\SignOfInteregerNumbers.deps.json
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\bin\Debug\net5.0\SignOfInteregerNumbers.runtimeconfig.json
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\bin\Debug\net5.0\SignOfInteregerNumbers.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\bin\Debug\net5.0\SignOfInteregerNumbers.dll
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\bin\Debug\net5.0\ref\SignOfInteregerNumbers.dll
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\bin\Debug\net5.0\SignOfInteregerNumbers.pdb
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\SignOfInteregerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\SignOfInteregerNumbers.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\SignOfInteregerNumbers.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\SignOfInteregerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\SignOfInteregerNumbers.dll
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\ref\SignOfInteregerNumbers.dll
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\SignOfInteregerNumbers.pdb
+C:\Users\Legion\source\repos\Methods\SignOfInteregerNumbers\obj\Debug\net5.0\SignOfInteregerNumbers.genruntimeconfig.cache

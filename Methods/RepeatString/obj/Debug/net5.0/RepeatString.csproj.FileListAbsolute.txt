@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\Methods\RepeatString\bin\Debug\net5.0\RepeatString.exe
+C:\Users\Legion\source\repos\Methods\RepeatString\bin\Debug\net5.0\RepeatString.deps.json
+C:\Users\Legion\source\repos\Methods\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.json
+C:\Users\Legion\source\repos\Methods\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Methods\RepeatString\bin\Debug\net5.0\RepeatString.dll
+C:\Users\Legion\source\repos\Methods\RepeatString\bin\Debug\net5.0\ref\RepeatString.dll
+C:\Users\Legion\source\repos\Methods\RepeatString\bin\Debug\net5.0\RepeatString.pdb
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\RepeatString.dll
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\ref\RepeatString.dll
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\RepeatString.pdb
+C:\Users\Legion\source\repos\Methods\RepeatString\obj\Debug\net5.0\RepeatString.genruntimeconfig.cache

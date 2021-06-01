@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\bin\Debug\net5.0\KaminoFactory.exe
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\bin\Debug\net5.0\KaminoFactory.deps.json
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.json
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\bin\Debug\net5.0\KaminoFactory.dll
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\bin\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\bin\Debug\net5.0\KaminoFactory.pdb
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfo.cs
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.dll
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.pdb
+C:\Users\Legion\source\repos\ArraysExercise\KaminoFactory\obj\Debug\net5.0\KaminoFactory.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\bin\Debug\net5.0\MultiplyEvenAndOdd.exe
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\bin\Debug\net5.0\MultiplyEvenAndOdd.deps.json
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\bin\Debug\net5.0\MultiplyEvenAndOdd.runtimeconfig.json
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\bin\Debug\net5.0\MultiplyEvenAndOdd.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\bin\Debug\net5.0\MultiplyEvenAndOdd.dll
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\bin\Debug\net5.0\ref\MultiplyEvenAndOdd.dll
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\bin\Debug\net5.0\MultiplyEvenAndOdd.pdb
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\MultiplyEvenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\MultiplyEvenAndOdd.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\MultiplyEvenAndOdd.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\MultiplyEvenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\MultiplyEvenAndOdd.dll
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\ref\MultiplyEvenAndOdd.dll
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\MultiplyEvenAndOdd.pdb
+C:\Users\Legion\source\repos\Methods\MultiplyEvenAndOdd\obj\Debug\net5.0\MultiplyEvenAndOdd.genruntimeconfig.cache
