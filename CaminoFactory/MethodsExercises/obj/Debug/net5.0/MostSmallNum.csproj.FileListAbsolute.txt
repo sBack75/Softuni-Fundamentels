@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\bin\Debug\net5.0\MostSmallNum.exe
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\bin\Debug\net5.0\MostSmallNum.deps.json
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\bin\Debug\net5.0\MostSmallNum.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\bin\Debug\net5.0\MostSmallNum.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\bin\Debug\net5.0\MostSmallNum.dll
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\bin\Debug\net5.0\ref\MostSmallNum.dll
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\bin\Debug\net5.0\MostSmallNum.pdb
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\MostSmallNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\MostSmallNum.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\MostSmallNum.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\MostSmallNum.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\MostSmallNum.dll
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\ref\MostSmallNum.dll
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\MostSmallNum.pdb
+C:\Users\Legion\source\repos\MethodsExercises\MethodsExercises\obj\Debug\net5.0\MostSmallNum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\bin\Debug\net5.0\CaminoFactory.exe
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\bin\Debug\net5.0\CaminoFactory.deps.json
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\bin\Debug\net5.0\CaminoFactory.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\bin\Debug\net5.0\CaminoFactory.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\bin\Debug\net5.0\CaminoFactory.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\bin\Debug\net5.0\ref\CaminoFactory.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\bin\Debug\net5.0\CaminoFactory.pdb
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\ref\CaminoFactory.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.pdb
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactory\obj\Debug\net5.0\CaminoFactory.genruntimeconfig.cache

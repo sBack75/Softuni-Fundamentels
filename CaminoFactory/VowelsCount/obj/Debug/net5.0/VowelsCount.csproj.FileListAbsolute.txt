@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\bin\Debug\net5.0\VowelsCount.exe
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\bin\Debug\net5.0\VowelsCount.deps.json
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\bin\Debug\net5.0\VowelsCount.dll
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\bin\Debug\net5.0\ref\VowelsCount.dll
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\bin\Debug\net5.0\VowelsCount.pdb
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\VowelsCount.dll
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\ref\VowelsCount.dll
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\VowelsCount.pdb
+C:\Users\Legion\source\repos\MethodsExercises\VowelsCount\obj\Debug\net5.0\VowelsCount.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\bin\Debug\net5.0\CaminoFactorySecChange.exe
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\bin\Debug\net5.0\CaminoFactorySecChange.deps.json
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\bin\Debug\net5.0\CaminoFactorySecChange.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\bin\Debug\net5.0\CaminoFactorySecChange.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\bin\Debug\net5.0\CaminoFactorySecChange.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\bin\Debug\net5.0\ref\CaminoFactorySecChange.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\bin\Debug\net5.0\CaminoFactorySecChange.pdb
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\ref\CaminoFactorySecChange.dll
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.pdb
+C:\Users\Legion\source\repos\MethodsExercises\CaminoFactorySecChange\obj\Debug\net5.0\CaminoFactorySecChange.genruntimeconfig.cache
