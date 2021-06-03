@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\bin\Debug\net5.0\MiddleCharacter.exe
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\bin\Debug\net5.0\MiddleCharacter.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\bin\Debug\net5.0\MiddleCharacter.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\bin\Debug\net5.0\MiddleCharacter.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\bin\Debug\net5.0\MiddleCharacter.dll
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\bin\Debug\net5.0\ref\MiddleCharacter.dll
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\bin\Debug\net5.0\MiddleCharacter.pdb
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\MiddleCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\MiddleCharacter.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\MiddleCharacter.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\MiddleCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\MiddleCharacter.dll
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\ref\MiddleCharacter.dll
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\MiddleCharacter.pdb
+C:\Users\Legion\source\repos\MethodsExercise\MiddleCharacter\obj\Debug\net5.0\MiddleCharacter.genruntimeconfig.cache

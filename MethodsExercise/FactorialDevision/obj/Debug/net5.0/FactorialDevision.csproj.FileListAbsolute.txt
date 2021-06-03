@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\bin\Debug\net5.0\FactorialDevision.exe
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\bin\Debug\net5.0\FactorialDevision.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\bin\Debug\net5.0\FactorialDevision.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\bin\Debug\net5.0\FactorialDevision.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\bin\Debug\net5.0\FactorialDevision.dll
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\bin\Debug\net5.0\ref\FactorialDevision.dll
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\bin\Debug\net5.0\FactorialDevision.pdb
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\FactorialDevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\FactorialDevision.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\FactorialDevision.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\FactorialDevision.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\FactorialDevision.dll
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\ref\FactorialDevision.dll
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\FactorialDevision.pdb
+C:\Users\Legion\source\repos\MethodsExercise\FactorialDevision\obj\Debug\net5.0\FactorialDevision.genruntimeconfig.cache

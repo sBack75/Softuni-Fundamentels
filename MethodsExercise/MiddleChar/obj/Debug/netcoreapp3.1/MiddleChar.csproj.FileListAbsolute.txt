@@ -1,0 +1,12 @@
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\bin\Debug\netcoreapp3.1\MiddleChar.exe
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\bin\Debug\netcoreapp3.1\MiddleChar.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\bin\Debug\netcoreapp3.1\MiddleChar.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\bin\Debug\netcoreapp3.1\MiddleChar.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\bin\Debug\netcoreapp3.1\MiddleChar.dll
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\bin\Debug\netcoreapp3.1\MiddleChar.pdb
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\obj\Debug\netcoreapp3.1\MiddleChar.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\obj\Debug\netcoreapp3.1\MiddleChar.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\obj\Debug\netcoreapp3.1\MiddleChar.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\obj\Debug\netcoreapp3.1\MiddleChar.dll
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\obj\Debug\netcoreapp3.1\MiddleChar.pdb
+C:\Users\Legion\source\repos\MethodsExercise\MiddleChar\obj\Debug\netcoreapp3.1\MiddleChar.genruntimeconfig.cache

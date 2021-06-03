@@ -1,0 +1,13 @@
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\bin\Debug\netcoreapp3.1\FactorialNum.exe
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\bin\Debug\netcoreapp3.1\FactorialNum.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\bin\Debug\netcoreapp3.1\FactorialNum.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\bin\Debug\netcoreapp3.1\FactorialNum.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\bin\Debug\netcoreapp3.1\FactorialNum.dll
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\bin\Debug\netcoreapp3.1\FactorialNum.pdb
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\obj\Debug\netcoreapp3.1\FactorialNum.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\obj\Debug\netcoreapp3.1\FactorialNum.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\obj\Debug\netcoreapp3.1\FactorialNum.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\obj\Debug\netcoreapp3.1\FactorialNum.dll
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\obj\Debug\netcoreapp3.1\FactorialNum.pdb
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\obj\Debug\netcoreapp3.1\FactorialNum.genruntimeconfig.cache
+C:\Users\Legion\source\repos\MethodsExercise\FactorialNum\obj\Debug\netcoreapp3.1\FactorialNum.csprojAssemblyReference.cache

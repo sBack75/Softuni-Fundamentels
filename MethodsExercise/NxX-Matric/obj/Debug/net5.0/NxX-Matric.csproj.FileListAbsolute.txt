@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\bin\Debug\net5.0\NxX-Matric.exe
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\bin\Debug\net5.0\NxX-Matric.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\bin\Debug\net5.0\NxX-Matric.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\bin\Debug\net5.0\NxX-Matric.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\bin\Debug\net5.0\NxX-Matric.dll
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\bin\Debug\net5.0\ref\NxX-Matric.dll
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\bin\Debug\net5.0\NxX-Matric.pdb
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.dll
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\ref\NxX-Matric.dll
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.pdb
+C:\Users\Legion\source\repos\MethodsExercise\NxX-Matric\obj\Debug\net5.0\NxX-Matric.genruntimeconfig.cache

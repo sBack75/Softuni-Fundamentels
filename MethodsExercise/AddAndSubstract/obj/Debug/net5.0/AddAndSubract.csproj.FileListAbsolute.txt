@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubract.exe
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubract.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubract.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubract.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubract.dll
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\ref\AddAndSubract.dll
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubract.pdb
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubract.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubract.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubract.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubract.dll
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\ref\AddAndSubract.dll
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubract.pdb
+C:\Users\Legion\source\repos\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubract.genruntimeconfig.cache

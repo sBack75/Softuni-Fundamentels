@@ -1,0 +1,12 @@
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\bin\Debug\netcoreapp3.1\CharacterInRange.exe
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\bin\Debug\netcoreapp3.1\CharacterInRange.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\bin\Debug\netcoreapp3.1\CharacterInRange.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\bin\Debug\netcoreapp3.1\CharacterInRange.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\bin\Debug\netcoreapp3.1\CharacterInRange.dll
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\bin\Debug\netcoreapp3.1\CharacterInRange.pdb
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\obj\Debug\netcoreapp3.1\CharacterInRange.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\obj\Debug\netcoreapp3.1\CharacterInRange.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\obj\Debug\netcoreapp3.1\CharacterInRange.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\obj\Debug\netcoreapp3.1\CharacterInRange.dll
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\obj\Debug\netcoreapp3.1\CharacterInRange.pdb
+C:\Users\Legion\source\repos\MethodsExercise\CharacterInRange\obj\Debug\netcoreapp3.1\CharacterInRange.genruntimeconfig.cache

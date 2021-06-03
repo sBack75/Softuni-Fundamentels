@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\bin\Debug\net5.0\PolindromIntegers.exe
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\bin\Debug\net5.0\PolindromIntegers.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\bin\Debug\net5.0\PolindromIntegers.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\bin\Debug\net5.0\PolindromIntegers.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\bin\Debug\net5.0\PolindromIntegers.dll
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\bin\Debug\net5.0\ref\PolindromIntegers.dll
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\bin\Debug\net5.0\PolindromIntegers.pdb
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\PolindromIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\PolindromIntegers.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\PolindromIntegers.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\PolindromIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\PolindromIntegers.dll
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\ref\PolindromIntegers.dll
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\PolindromIntegers.pdb
+C:\Users\Legion\source\repos\MethodsExercise\PolindromIntegers\obj\Debug\net5.0\PolindromIntegers.genruntimeconfig.cache

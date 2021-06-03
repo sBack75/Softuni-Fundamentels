@@ -1,0 +1,13 @@
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\bin\Debug\netcoreapp3.1\TopNumbers.exe
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\bin\Debug\netcoreapp3.1\TopNumbers.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\bin\Debug\netcoreapp3.1\TopNumbers.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\bin\Debug\netcoreapp3.1\TopNumbers.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\bin\Debug\netcoreapp3.1\TopNumbers.dll
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\bin\Debug\netcoreapp3.1\TopNumbers.pdb
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\obj\Debug\netcoreapp3.1\TopNumbers.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\obj\Debug\netcoreapp3.1\TopNumbers.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\obj\Debug\netcoreapp3.1\TopNumbers.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\obj\Debug\netcoreapp3.1\TopNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\obj\Debug\netcoreapp3.1\TopNumbers.dll
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\obj\Debug\netcoreapp3.1\TopNumbers.pdb
+C:\Users\Legion\source\repos\MethodsExercise\TopNumbers\obj\Debug\netcoreapp3.1\TopNumbers.genruntimeconfig.cache

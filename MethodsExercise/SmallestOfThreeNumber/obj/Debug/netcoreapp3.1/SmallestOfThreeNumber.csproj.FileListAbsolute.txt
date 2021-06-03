@@ -1,0 +1,13 @@
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\bin\Debug\netcoreapp3.1\SmallestOfThreeNumber.exe
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\bin\Debug\netcoreapp3.1\SmallestOfThreeNumber.deps.json
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\bin\Debug\netcoreapp3.1\SmallestOfThreeNumber.runtimeconfig.json
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\bin\Debug\netcoreapp3.1\SmallestOfThreeNumber.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\bin\Debug\netcoreapp3.1\SmallestOfThreeNumber.dll
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\bin\Debug\netcoreapp3.1\SmallestOfThreeNumber.pdb
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\obj\Debug\netcoreapp3.1\SmallestOfThreeNumber.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\obj\Debug\netcoreapp3.1\SmallestOfThreeNumber.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\obj\Debug\netcoreapp3.1\SmallestOfThreeNumber.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\obj\Debug\netcoreapp3.1\SmallestOfThreeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\obj\Debug\netcoreapp3.1\SmallestOfThreeNumber.dll
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\obj\Debug\netcoreapp3.1\SmallestOfThreeNumber.pdb
+C:\Users\Legion\source\repos\MethodsExercise\SmallestOfThreeNumber\obj\Debug\netcoreapp3.1\SmallestOfThreeNumber.genruntimeconfig.cache
