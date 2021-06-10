@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Lab_List\MerginList\bin\Debug\net5.0\MerginList.exe
+C:\Users\Legion\source\repos\Lab_List\MerginList\bin\Debug\net5.0\MerginList.deps.json
+C:\Users\Legion\source\repos\Lab_List\MerginList\bin\Debug\net5.0\MerginList.runtimeconfig.json
+C:\Users\Legion\source\repos\Lab_List\MerginList\bin\Debug\net5.0\MerginList.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Lab_List\MerginList\bin\Debug\net5.0\MerginList.dll
+C:\Users\Legion\source\repos\Lab_List\MerginList\bin\Debug\net5.0\ref\MerginList.dll
+C:\Users\Legion\source\repos\Lab_List\MerginList\bin\Debug\net5.0\MerginList.pdb
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.dll
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\ref\MerginList.dll
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.pdb
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.genruntimeconfig.cache
+C:\Users\Legion\source\repos\Lab_List\MerginList\obj\Debug\net5.0\MerginList.csprojAssemblyReference.cache

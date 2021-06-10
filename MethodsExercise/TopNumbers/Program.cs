@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace TopNumbers
 {
@@ -6,33 +8,37 @@ namespace TopNumbers
     {
         static void Main(string[] args)
         {
-            int numberEnd = int.Parse(Console.ReadLine());
-            TopNum(numberEnd);
-
-            
+            string number = Console.ReadLine( );
+            List<int> result = TopNumberFirstPart(number);
+            Console.WriteLine(string.Join(Environment.NewLine ,result));
         }
-        static void TopNum (int endNum)
+        static List<int> TopNumberFirstPart(string number)
         {
-            for (int i = 10; i <= endNum; i++)
+            List<int> result = new List<int>();
+                    
+            for (int i = 10; i < int.Parse(number); i++)
             {
-                int sum = 0;
-                string leng = i + "";
-                int digit = i;
-                for (int s = 1; s <= leng.Length; s++)
+                char[] curSumbol = i.ToString().ToCharArray();
+                int[] allNum = new int[curSumbol.Length];
+                for (int s = 0; s < curSumbol.Length; s++)
                 {
-
-                    sum += digit % 10;
-                    digit /= 10;
+                    allNum[s] = int.Parse(curSumbol[s].ToString());
                 }
+                int sum = allNum.Sum();
+
                 if (sum % 8 == 0)
                 {
-                    if (i % 2 !=0)
+                    if (allNum[allNum.Length-1] % 2 != 0)
                     {
-                        Console.WriteLine(i);
+                        result.Add(i);
                     }
                 }
             }
-        }
 
+            return result;
+            
+            
+            
+        }
     }
 }

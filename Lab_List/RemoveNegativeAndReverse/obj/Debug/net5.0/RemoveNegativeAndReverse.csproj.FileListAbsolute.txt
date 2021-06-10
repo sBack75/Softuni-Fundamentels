@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\bin\Debug\net5.0\RemoveNegativeAndReverse.exe
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\bin\Debug\net5.0\RemoveNegativeAndReverse.deps.json
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\bin\Debug\net5.0\RemoveNegativeAndReverse.runtimeconfig.json
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\bin\Debug\net5.0\RemoveNegativeAndReverse.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\bin\Debug\net5.0\RemoveNegativeAndReverse.dll
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\bin\Debug\net5.0\ref\RemoveNegativeAndReverse.dll
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\bin\Debug\net5.0\RemoveNegativeAndReverse.pdb
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.dll
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\ref\RemoveNegativeAndReverse.dll
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.pdb
+C:\Users\Legion\source\repos\Lab_List\RemoveNegativeAndReverse\obj\Debug\net5.0\RemoveNegativeAndReverse.genruntimeconfig.cache

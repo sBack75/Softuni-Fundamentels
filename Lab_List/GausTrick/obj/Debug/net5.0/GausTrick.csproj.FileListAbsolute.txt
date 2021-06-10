@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Lab_List\GausTrick\bin\Debug\net5.0\GausTrick.exe
+C:\Users\Legion\source\repos\Lab_List\GausTrick\bin\Debug\net5.0\GausTrick.deps.json
+C:\Users\Legion\source\repos\Lab_List\GausTrick\bin\Debug\net5.0\GausTrick.runtimeconfig.json
+C:\Users\Legion\source\repos\Lab_List\GausTrick\bin\Debug\net5.0\GausTrick.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Lab_List\GausTrick\bin\Debug\net5.0\GausTrick.dll
+C:\Users\Legion\source\repos\Lab_List\GausTrick\bin\Debug\net5.0\ref\GausTrick.dll
+C:\Users\Legion\source\repos\Lab_List\GausTrick\bin\Debug\net5.0\GausTrick.pdb
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.dll
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\ref\GausTrick.dll
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.pdb
+C:\Users\Legion\source\repos\Lab_List\GausTrick\obj\Debug\net5.0\GausTrick.genruntimeconfig.cache

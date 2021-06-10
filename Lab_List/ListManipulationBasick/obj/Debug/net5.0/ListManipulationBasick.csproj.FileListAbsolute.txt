@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\bin\Debug\net5.0\ListManipulationBasick.exe
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\bin\Debug\net5.0\ListManipulationBasick.deps.json
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\bin\Debug\net5.0\ListManipulationBasick.runtimeconfig.json
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\bin\Debug\net5.0\ListManipulationBasick.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\bin\Debug\net5.0\ListManipulationBasick.dll
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\bin\Debug\net5.0\ref\ListManipulationBasick.dll
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\bin\Debug\net5.0\ListManipulationBasick.pdb
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.dll
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ref\ListManipulationBasick.dll
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.pdb
+C:\Users\Legion\source\repos\Lab_List\ListManipulationBasick\obj\Debug\net5.0\ListManipulationBasick.genruntimeconfig.cache

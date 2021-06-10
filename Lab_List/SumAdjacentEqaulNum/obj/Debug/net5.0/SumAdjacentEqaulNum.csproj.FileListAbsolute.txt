@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\bin\Debug\net5.0\SumAdjacentEqaulNum.exe
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\bin\Debug\net5.0\SumAdjacentEqaulNum.deps.json
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\bin\Debug\net5.0\SumAdjacentEqaulNum.runtimeconfig.json
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\bin\Debug\net5.0\SumAdjacentEqaulNum.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\bin\Debug\net5.0\SumAdjacentEqaulNum.dll
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\bin\Debug\net5.0\ref\SumAdjacentEqaulNum.dll
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\bin\Debug\net5.0\SumAdjacentEqaulNum.pdb
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.dll
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\ref\SumAdjacentEqaulNum.dll
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.pdb
+C:\Users\Legion\source\repos\Lab_List\SumAdjacentEqaulNum\obj\Debug\net5.0\SumAdjacentEqaulNum.genruntimeconfig.cache
