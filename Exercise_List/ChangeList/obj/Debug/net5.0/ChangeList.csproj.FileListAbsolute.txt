@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\bin\Debug\net5.0\ChangeList.exe
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\bin\Debug\net5.0\ChangeList.deps.json
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.json
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\bin\Debug\net5.0\ChangeList.dll
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\bin\Debug\net5.0\ref\ChangeList.dll
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\bin\Debug\net5.0\ChangeList.pdb
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.dll
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ref\ChangeList.dll
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.pdb
+C:\Users\Legion\source\repos\Exercise_List\ChangeList\obj\Debug\net5.0\ChangeList.genruntimeconfig.cache
